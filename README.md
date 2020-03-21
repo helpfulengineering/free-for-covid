@@ -1,5 +1,4 @@
-# [Waiting to be restructured](https://github.com/helpfulengineering/free-for-covid/issues/1)
-Please read https://github.com/helpfulengineering/free-for-covid/issues/1
+# [Waiting to be restructured, read #1](https://github.com/helpfulengineering/free-for-covid/issues/1)
 
 ***
 
