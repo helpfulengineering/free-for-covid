@@ -24,7 +24,14 @@ A collection of tools and software provided for free for those contributing to a
 * [Box](https://t.co/Q3kJTvJcne?amp=1). 
   * Description: workflow and content management.
   * Limit: 90 days.
+  
+* [Calendly](https://blog.calendly.com/meeting-integration-update/). 
+  * Description: Meeting scheduling with Zoom and GoToMeeting integrations.
+  * Limit: June 2020
 
+* [Carto](https://carto.com/blog/carto-free-for-fight-against-coronavirus/). 
+  * Description: Cloud data management, analysis, and visualizations.
+  * Limit: None
 
 ## Initial sources
 - https://www.forbes.com/sites/martingiles/2020/03/19/free-software-for-businesses-and-schools-covid19/#4d2ad3dc752d
