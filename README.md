@@ -27,11 +27,43 @@ A collection of tools and software provided for free for those contributing to a
   
 * [Calendly](https://blog.calendly.com/meeting-integration-update/). 
   * Description: Meeting scheduling with Zoom and GoToMeeting integrations.
-  * Limit: June 2020
+  * Limit: June 2020.
 
 * [Carto](https://carto.com/blog/carto-free-for-fight-against-coronavirus/). 
   * Description: Cloud data management, analysis, and visualizations.
-  * Limit: None
+  * Limit: None.
+  
+* [Cisco](https://help.webex.com/en-us/n80v1rcb/Cisco-Webex-Available-Free-in-These-Countries-COVID-19-Response). 
+  * Description: Videoconferencing.
+  * Limit: 100 participiants.
+  
+* [Dropbox](https://blog.dropbox.com/topics/company/how-dropbox-is-ensuring-business-continuity-through-unprecedente). 
+  * Description: Cloud content storage and collaboration with Dropbox Business and HelloSign Enterprise.
+  * Limit: 3 months.
+  
+* [Hangouts Meet](https://cloud.google.com/blog/products/g-suite/helping-businesses-and-schools-stay-connected-in-response-to-coronavirus). 
+  * Description: Videoconferencing and cloud storage.
+  * Limit: 250 participants.
+  
+* [LogMeIn](https://blog.gotomeeting.com/coronavirus-disruptions-and-support/). 
+  * Description: Videoconferencing and remote working.
+  * Limit: 3 months.
+  
+* [Loom](https://www.loom.com/blog/coronavirus-response/). 
+  * Description: Videoconferencing.
+  * Limit: July 1st.
+  
+* [MailChimp](https://mailchimp.com/covid19-statement/). 
+  * Description: Marketing platform.
+  * Limit: June 30th.
+  
+* [Microsoft Teams & Office 365](https://docs.microsoft.com/en-us/microsoftteams/e1-trial-license). 
+  * Description: Team collaboration and productivity tools.
+  * Limit: None.
+  
+* [Panopto](https://www.panopto.com/about/news/panopto-adds-automatic-recording-and-sharing-of-recurring-zoom-meetings-offers-businesses-universities-colleges-and-schools-unlimited-complimentary-panopto-enterprise-for-three-months/). 
+  * Description: Recording software.
+  * Limit: 90 days.
 
 ## Initial sources
 - https://www.forbes.com/sites/martingiles/2020/03/19/free-software-for-businesses-and-schools-covid19/#4d2ad3dc752d
