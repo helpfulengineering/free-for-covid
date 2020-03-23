@@ -68,10 +68,50 @@ A collection of tools and software provided for free for those contributing to a
 * [Panopto](https://www.panopto.com/about/news/panopto-adds-automatic-recording-and-sharing-of-recurring-zoom-meetings-offers-businesses-universities-colleges-and-schools-unlimited-complimentary-panopto-enterprise-for-three-months/). 
   * Description: Recording software.
   * Limit: 90 days.
+  
+* [Rackspace](https://www.rackspace.com/lp/covid-19). 
+  * Description: Cloud hosting.
+  * Limit: 6 month.
 
 * [Ping Identity](https://www.pingidentity.com/en/lp/e/work-from-home-sso-mfa.html).
   * Description: free cloud Single Sign-On and multifactor authentication.
   * Limit: 6 month.
+  
+* [Salesforce Health Cloud](https://www.salesforce.com/company/news-press/stories/2020/3/salesforce-corinavirus-actions/).
+  * Description: Patient management software.
+  * Limit: Sept 30th.
+  
+* [Slack](https://slack.com/help/articles/360045240813-Slack-for-Nonprofits-during-COVID-19).
+  * Description: Team collaboration tool.
+  * Limit: 3 month.
+  
+* [TechSmith](https://discover.techsmith.com/remote-techsmith/).
+  * Description: Video recording and team collaboration.
+  * Limit: June 30th.
+  
+* [Threads](https://threads.com/pricing/).
+  * Description: Team collaboration tool.
+  * Limit: July 1st.
+
+* [Truevault](https://www.truevault.com/blog/truevault-safe-free-for-covid-19-projects).
+  * Description: HIPAA-compliant database built for healthcare applications.
+  * Limit: none.
+
+* [Vidyard](https://threads.com/pricing/).
+  * Description: Videomessaging service.
+  * Limit: June 30th.
+
+* [Zoho](https://www.zoho.com/news/zoho-launches-small-business-emergency-subscriptions.html/).
+  * Description: Cloud productivity tools.
+  * Limit: 3 month.
+  
+* [Zoho](https://www.zoho.com/news/zoho-launches-small-business-emergency-subscriptions.html/).
+  * Description: Cloud productivity tools.
+  * Limit: 3 month.
+  
+* [Zoom](https://zoom.us/docs/en-us/covid19.html).
+  * Description: Videoconferencing.
+  * Limit: None.
 
 ## Initial sources
 - https://www.forbes.com/sites/martingiles/2020/03/19/free-software-for-businesses-and-schools-covid19/#4d2ad3dc752d
