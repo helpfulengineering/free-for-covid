@@ -1,4 +1,5 @@
-# [Waiting to be restructured, read #1](https://github.com/helpfulengineering/free-for-covid/issues/1)
+# [Moved to organization/resources/free-for-covid.md](https://github.com/helpfulengineering/organization/blob/master/resources/free-for-covid.md)
+**Only if you will. If not, ignore this message and keep editing this version**
 
 ***
 
