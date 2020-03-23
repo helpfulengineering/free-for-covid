@@ -41,6 +41,10 @@ A collection of tools and software provided for free for those contributing to a
   * Description: Cloud content storage and collaboration with Dropbox Business and HelloSign Enterprise.
   * Limit: 3 months.
   
+* [GitKraken](https://www.gitkraken.com/pro-for-a-cure).
+  * Description: Git GUI with Github integration, task management boards and timelines.
+  * Limit: One year, Up to 25 people.
+
 * [Hangouts Meet](https://cloud.google.com/blog/products/g-suite/helping-businesses-and-schools-stay-connected-in-response-to-coronavirus). 
   * Description: Videoconferencing and cloud storage.
   * Limit: 250 participants.
@@ -64,6 +68,10 @@ A collection of tools and software provided for free for those contributing to a
 * [Panopto](https://www.panopto.com/about/news/panopto-adds-automatic-recording-and-sharing-of-recurring-zoom-meetings-offers-businesses-universities-colleges-and-schools-unlimited-complimentary-panopto-enterprise-for-three-months/). 
   * Description: Recording software.
   * Limit: 90 days.
+
+* [Ping Identity](https://www.pingidentity.com/en/lp/e/work-from-home-sso-mfa.html).
+  * Description: free cloud Single Sign-On and multifactor authentication.
+  * Limit: 6 month.
 
 ## Initial sources
 - https://www.forbes.com/sites/martingiles/2020/03/19/free-software-for-businesses-and-schools-covid19/#4d2ad3dc752d
