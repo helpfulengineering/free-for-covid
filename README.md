@@ -1,9 +1,5 @@
-# [Moved to organization/resources/free-for-covid.md](https://github.com/helpfulengineering/organization/blob/master/resources/free-for-covid.md)
-**Only if you will. If not, ignore this message and keep editing this version**
 
-***
-
-# Product list
+# Free for COVID
 A collection of tools and software provided for free for those contributing to alleviating the COVID-19 pandemic.
 
 * [Cribl LogStream](https://cribl.io/blog/cribl-logstream-free-for-government-healthcare-covid-19-responders/).
