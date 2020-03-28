@@ -33,6 +33,10 @@ A collection of tools and software provided for free for those contributing to a
 * [Cisco](https://help.webex.com/en-us/n80v1rcb/Cisco-Webex-Available-Free-in-These-Countries-COVID-19-Response). 
   * Description: Videoconferencing.
   * Limit: 100 participiants.
+
+* [Datastax](https://www.datastax.com/keepcalm).
+  * Description: Casandra Consulting
+  * Limit: Customers and Non-Customers both
   
 * [Dropbox](https://blog.dropbox.com/topics/company/how-dropbox-is-ensuring-business-continuity-through-unprecedente). 
   * Description: Cloud content storage and collaboration with Dropbox Business and HelloSign Enterprise.
@@ -45,6 +49,10 @@ A collection of tools and software provided for free for those contributing to a
 * [Hangouts Meet](https://cloud.google.com/blog/products/g-suite/helping-businesses-and-schools-stay-connected-in-response-to-coronavirus). 
   * Description: Videoconferencing and cloud storage.
   * Limit: 250 participants.
+
+* [Honeycomb.io](https://twitter.com/lizthegrey/status/1242269291736694785).
+  * Description: Free Honeycomb and consulting
+  * Limit: must be working on essential problems  
   
 * [LogMeIn](https://blog.gotomeeting.com/coronavirus-disruptions-and-support/). 
   * Description: Videoconferencing and remote working.
