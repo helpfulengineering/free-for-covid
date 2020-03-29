@@ -57,6 +57,10 @@ A collection of tools and software provided for free for those contributing to a
 * [Intermedia](https://www.intermedia.net/press-release/intermedia-free-video-conferencing-webinar-solution-through-2020).
   * Description: Videoconferencing and webinar hosting.
   * Limit: Dec 31  
+
+* [IBM Cloud](https://newsroom.ibm.com/COVID-19?item=31770).
+  * Description: Free offerings that span cloud-enabled AI, data, security, integration, video and more via the IBM public cloud.
+  * Limit: 90 days. 
   
 * [LogMeIn](https://blog.gotomeeting.com/coronavirus-disruptions-and-support/). 
   * Description: Videoconferencing and remote working.
