@@ -2,10 +2,6 @@
 # Free for COVID
 A collection of tools and software provided for free for those contributing to alleviating the COVID-19 pandemic. Feel free to contribute to this list by making a pull request or reaching out to Helpful Engineering!
 
-* [Cribl LogStream](https://cribl.io/blog/cribl-logstream-free-for-government-healthcare-covid-19-responders/).
-  * Description: process machine data, logs, instrumentation data, application data, metrics, *et cetera* in real-time and deliver them to your analysis platform of choice.
-  * Limit: 1 year.
-
 * [Airtable](https://blog.airtable.com/airtables-support-for-covid-19-response-efforts/).
   * Description: hybrid with the features of a database applied to a spreadsheet.
   * Limit: none
@@ -33,6 +29,10 @@ A collection of tools and software provided for free for those contributing to a
 * [Cisco](https://help.webex.com/en-us/n80v1rcb/Cisco-Webex-Available-Free-in-These-Countries-COVID-19-Response). 
   * Description: Videoconferencing.
   * Limit: 100 participiants.
+
+* [Cribl LogStream](https://cribl.io/blog/cribl-logstream-free-for-government-healthcare-covid-19-responders/).
+  * Description: process machine data, logs, instrumentation data, application data, metrics, *et cetera* in real-time and deliver them to your analysis platform of choice.
+  * Limit: 1 year.
 
 * [Datastax](https://www.datastax.com/keepcalm).
   * Description: Casandra Consulting.
