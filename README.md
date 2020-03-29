@@ -1,6 +1,6 @@
 
 # Free for COVID
-A collection of tools and software provided for free for those contributing to alleviating the COVID-19 pandemic.
+A collection of tools and software provided for free for those contributing to alleviating the COVID-19 pandemic. Feel free to contribute to this list by making a pull request or reaching out to Helpful Engineering!
 
 * [Cribl LogStream](https://cribl.io/blog/cribl-logstream-free-for-government-healthcare-covid-19-responders/).
   * Description: process machine data, logs, instrumentation data, application data, metrics, *et cetera* in real-time and deliver them to your analysis platform of choice.
@@ -35,7 +35,7 @@ A collection of tools and software provided for free for those contributing to a
   * Limit: 100 participiants.
 
 * [Datastax](https://www.datastax.com/keepcalm).
-  * Description: Casandra Consulting
+  * Description: Casandra Consulting.
   * Limit: Customers and Non-Customers both
   
 * [Dropbox](https://blog.dropbox.com/topics/company/how-dropbox-is-ensuring-business-continuity-through-unprecedente). 
@@ -51,8 +51,12 @@ A collection of tools and software provided for free for those contributing to a
   * Limit: 250 participants.
 
 * [Honeycomb.io](https://twitter.com/lizthegrey/status/1242269291736694785).
-  * Description: Free Honeycomb and consulting
+  * Description: Free Honeycomb and consulting.
   * Limit: must be working on essential problems  
+  
+* [Intermedia](https://www.intermedia.net/press-release/intermedia-free-video-conferencing-webinar-solution-through-2020).
+  * Description: Videoconferencing and webinar hosting.
+  * Limit: Dec 31  
   
 * [LogMeIn](https://blog.gotomeeting.com/coronavirus-disruptions-and-support/). 
   * Description: Videoconferencing and remote working.
@@ -85,6 +89,10 @@ A collection of tools and software provided for free for those contributing to a
 * [Salesforce Health Cloud](https://www.salesforce.com/company/news-press/stories/2020/3/salesforce-corinavirus-actions/).
   * Description: Patient management software.
   * Limit: Sept 30th.
+  
+* [SecureAuth](https://www.secureauth.com/secureauth-work-from-home-free-offer).
+  * Description: Identity and access management solutions.
+  * Limit: Dec 15.
   
 * [Slack](https://slack.com/help/articles/360045240813-Slack-for-Nonprofits-during-COVID-19).
   * Description: Team collaboration tool.
