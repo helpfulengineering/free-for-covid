@@ -43,7 +43,7 @@ A collection of tools and software provided for free for those contributing to a
   * Limit: 3 months.
 
 * [Esri](https://www.esri.com/en-us/covid-19/overview). 
-  * Description: Location intelligence, geographic information system (GIS) and mapping software, services, and materials .
+  * Description: Location intelligence, geographic information system (GIS) and mapping software, services, and materials.
   * Limit: Apply for a free subscription.
   
 * [GitKraken](https://www.gitkraken.com/pro-for-a-cure).
