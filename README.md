@@ -41,6 +41,10 @@ A collection of tools and software provided for free for those contributing to a
 * [Dropbox](https://blog.dropbox.com/topics/company/how-dropbox-is-ensuring-business-continuity-through-unprecedente). 
   * Description: Cloud content storage and collaboration with Dropbox Business and HelloSign Enterprise.
   * Limit: 3 months.
+
+* [Esri](https://www.esri.com/en-us/covid-19/overview). 
+  * Description: Location intelligence, geographic information system (GIS) and mapping software, services, and materials .
+  * Limit: Apply for a free subscription.
   
 * [GitKraken](https://www.gitkraken.com/pro-for-a-cure).
   * Description: Git GUI with Github integration, task management boards and timelines.
