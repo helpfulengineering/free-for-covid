@@ -58,6 +58,10 @@ A collection of tools and software provided for free for those contributing to a
   * Description: Videoconferencing and webinar hosting.
   * Limit: Dec 31  
 
+* [Intercom](https://www.intercom.com/partner/covid-19-information).
+  * Description: Customer Support.
+  * Limit: Free with approved application 
+
 * [IBM Cloud](https://newsroom.ibm.com/COVID-19?item=31770).
   * Description: Free offerings that span cloud-enabled AI, data, security, integration, video and more via the IBM public cloud.
   * Limit: 90 days. 
