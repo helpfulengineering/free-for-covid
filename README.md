@@ -85,7 +85,11 @@ A collection of tools and software provided for free for those contributing to a
 * [Microsoft Teams & Office 365](https://docs.microsoft.com/en-us/microsoftteams/e1-trial-license). 
   * Description: Team collaboration and productivity tools.
   * Limit: None.
-  
+
+* [Odoo](https://www.odoo.com/blog/odoo-news-5/post/helping-associations-fighting-covid-19-590). 
+  * Description: Open Source based ERP with multiple integrated Apps
+  * Limit: 60 - 90 days licenses available, unlimited users, unlimited functionality, potentially longer, via <a href="mailto:ray@odoo.com">ray@odoo.com</a>.
+    
 * [Panopto](https://www.panopto.com/about/news/panopto-adds-automatic-recording-and-sharing-of-recurring-zoom-meetings-offers-businesses-universities-colleges-and-schools-unlimited-complimentary-panopto-enterprise-for-three-months/). 
   * Description: Recording software.
   * Limit: 90 days.
