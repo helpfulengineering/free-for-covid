@@ -147,6 +147,10 @@ A collection of tools and software provided for free for those contributing to a
   * Description: Videoconferencing.
   * Limit: None.
 
+* [Jitsi](https://meet.jit.si/).
+  * Description: Open source video conferencing solution with no registration.
+  * Limit: None.
+
 ## Initial sources
 - https://www.forbes.com/sites/martingiles/2020/03/19/free-software-for-businesses-and-schools-covid19/#4d2ad3dc752d
 - https://www.zdnet.com/article/free-tools-and-services-for-businesses-during-the-covid-19-crisis/
