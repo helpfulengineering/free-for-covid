@@ -46,6 +46,11 @@ A collection of tools and software provided for free for those contributing to a
   * Description: Location intelligence, geographic information system (GIS) and mapping software, services, and materials.
   * Limit: Apply for a free subscription.
   
+* [Flying Circus](https://flyingcircus.io/blog/covid-19-digitalisierungs-notfallangebot/).
+  * Description: Hosting and Managed Services
+  * Limit: 1.350€ per month rebate for up to 3 months
+  * Offer in German, Requests in English are welcome
+
 * [GitKraken](https://www.gitkraken.com/pro-for-a-cure).
   * Description: Git GUI with Github integration, task management boards and timelines.
   * Limit: One year, Up to 25 people.
