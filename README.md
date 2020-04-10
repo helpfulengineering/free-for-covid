@@ -95,6 +95,10 @@ A collection of tools and software provided for free for those contributing to a
   * Description: Open Source based ERP with multiple integrated Apps
   * Limit: 60 - 90 days licenses available, unlimited users, unlimited functionality, potentially longer, via <a href="mailto:ray@odoo.com">ray@odoo.com</a>.
 
+* [Onshape](https://www.onshape.com/covid-19-support).
+  * Description: Online CAD, data management and collaboration tools 
+  * Limit: Apply for free time-limited subscriptions.
+
 * [Panopto](https://www.panopto.com/about/news/panopto-adds-automatic-recording-and-sharing-of-recurring-zoom-meetings-offers-businesses-universities-colleges-and-schools-unlimited-complimentary-panopto-enterprise-for-three-months/).
   * Description: Recording software.
   * Limit: 90 days.
