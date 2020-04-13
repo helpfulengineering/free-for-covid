@@ -3,19 +3,23 @@
 A collection of tools and software provided for free for those contributing to alleviating the COVID-19 pandemic. Feel free to contribute to this list by making a pull request or reaching out to Helpful Engineering!
 
 * [Airtable](https://blog.airtable.com/airtables-support-for-covid-19-response-efforts/).
-  * Description: hybrid with the features of a database applied to a spreadsheet.
+  * Description: Hybrid with the features of a database applied to a spreadsheet.
   * Limit: none
 
+* [Asana](https://forum.asana.com/t/free-access-for-teams-projects-fighting-covid-19/77999).
+  * Description: Work management platform.
+  * Limit: up to 50 people.
+
 * [Atlassian](https://www.atlassian.com/blog/announcements/atlassian-cloud-remote-friendly-tools-free-small-teams).
-  * Description: central hub for the coding, collaboration, and release stages.
+  * Description: Central hub for the coding, collaboration, and release stages.
   * Limit: up to 10 people.
 
 * [BlueJeans](https://www.bluejeans.com/blog/bluejeans-statement-how-we-are-helping-customers-during-coronavirus-outbreak).
-  * Description: cloud video conferencing provider.
+  * Description: Cloud video conferencing provider.
   * Limit: varies.
 
 * [Box](https://t.co/Q3kJTvJcne?amp=1).
-  * Description: workflow and content management.
+  * Description: Workflow and content management.
   * Limit: 90 days.
 
 * [Calendly](https://blog.calendly.com/meeting-integration-update/).
@@ -92,11 +96,15 @@ A collection of tools and software provided for free for those contributing to a
   * Limit: None.
 
 * [Odoo](https://www.odoo.com/blog/odoo-news-5/post/helping-associations-fighting-covid-19-590).
-  * Description: Open Source based ERP with multiple integrated Apps
+  * Description: Open Source based ERP with multiple integrated Apps.
   * Limit: 60 - 90 days licenses available, unlimited users, unlimited functionality, potentially longer, via <a href="mailto:ray@odoo.com">ray@odoo.com</a>.
+  
+* [Okta](https://www.okta.com/blog/2020/03/okta-for-goods-response-and-support-during-the-covid-19-crisis/).
+  * Description: Idenitification and authentication platform 
+  * Limit: 5 Applications.
 
 * [Onshape](https://www.onshape.com/covid-19-support).
-  * Description: Online CAD, data management and collaboration tools 
+  * Description: Online CAD, data management and collaboration tools.
   * Limit: Apply for free time-limited subscriptions.
 
 * [Panopto](https://www.panopto.com/about/news/panopto-adds-automatic-recording-and-sharing-of-recurring-zoom-meetings-offers-businesses-universities-colleges-and-schools-unlimited-complimentary-panopto-enterprise-for-three-months/).
@@ -134,6 +142,10 @@ A collection of tools and software provided for free for those contributing to a
 * [Truevault](https://www.truevault.com/blog/truevault-safe-free-for-covid-19-projects).
   * Description: HIPAA-compliant database built for healthcare applications.
   * Limit: none.
+  
+* [Twilio](https://www.twilio.org/customer/covid19/).
+  * Description: Communication APIs.
+  * Limit: June 30th.
 
 * [Vidyard](https://threads.com/pricing/).
   * Description: Videomessaging service.
@@ -161,3 +173,4 @@ A collection of tools and software provided for free for those contributing to a
 ## Initial sources
 - https://www.forbes.com/sites/martingiles/2020/03/19/free-software-for-businesses-and-schools-covid19/#4d2ad3dc752d
 - https://www.zdnet.com/article/free-tools-and-services-for-businesses-during-the-covid-19-crisis/
+- https://www.impactcloud.org/covid19
