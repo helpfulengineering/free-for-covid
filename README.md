@@ -145,7 +145,7 @@ A collection of tools and software provided for free for those contributing to a
   
 * [Twilio](https://www.twilio.org/customer/covid19/).
   * Description: Communication APIs.
-  * Limit: June 30th.
+  * Limit: $500 USD kickstart credit & discounted pricing.
 
 * [Vidyard](https://threads.com/pricing/).
   * Description: Videomessaging service.
