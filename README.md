@@ -90,10 +90,18 @@ A collection of tools and software provided for free for those contributing to a
 * [MailChimp](https://mailchimp.com/covid19-statement/).
   * Description: Marketing platform.
   * Limit: June 30th.
+  
+* [Medallia](https://www.medallia.com/blog/helping-nonprofits-during-covid-19-with-free-crowdsourcing-tool/).
+  * Description: Crowdsourcing tool.
+  * Limit: 6 months (nonprofit organizations).
 
 * [Microsoft Teams & Office 365](https://docs.microsoft.com/en-us/microsoftteams/e1-trial-license).
   * Description: Team collaboration and productivity tools.
   * Limit: None.
+  
+* [New Relic](https://blog.newrelic.com/product-news/new-relic-covid-19-relief-program/).
+  * Description: Real-time web and mobile application monitoring.
+  * Limit: 90 days.
 
 * [Odoo](https://www.odoo.com/blog/odoo-news-5/post/helping-associations-fighting-covid-19-590).
   * Description: Open Source based ERP with multiple integrated Apps.
@@ -107,9 +115,17 @@ A collection of tools and software provided for free for those contributing to a
   * Description: Online CAD, data management and collaboration tools.
   * Limit: Apply for free time-limited subscriptions.
 
+* [Oracle NetSuite](https://www.netsuite.com/portal/industries/nonprofit/social-impact.shtml).
+  * Description: ERP solutions for businesses of various sizes 
+  * Limit: Varies by application.
+
 * [Panopto](https://www.panopto.com/about/news/panopto-adds-automatic-recording-and-sharing-of-recurring-zoom-meetings-offers-businesses-universities-colleges-and-schools-unlimited-complimentary-panopto-enterprise-for-three-months/).
   * Description: Recording software.
   * Limit: 90 days.
+
+* [PagerDuty](https://www.pagerduty.com/covid-19-response-pricing/).
+  * Description: ERP solutions for businesses of various sizes 
+  * Limit: 20 licenses for 6 months (healthcare organizations).
 
 * [Rackspace](https://www.rackspace.com/lp/covid-19).
   * Description: Cloud hosting.
