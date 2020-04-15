@@ -36,6 +36,10 @@ A collection of tools and software provided for free for those contributing to a
   * Description: Cloud hosting.
   * Limit: 6 months.
 
+* [Terraform Cloud](https://www.hashicorp.com/blog/hashicorp-assistance-during-covid-19/).
+  * Description: Infrastructure management.
+  * Limit: Team & Governance Tier.
+
 * [Truevault](https://www.truevault.com/blog/truevault-safe-free-for-covid-19-projects).
   * Description: HIPAA-compliant database built for healthcare applications.
   * Limit: None.
