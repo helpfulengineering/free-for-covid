@@ -133,6 +133,10 @@ A collection of tools and software provided for free for those contributing to a
 * [Panopto](https://www.panopto.com/about/news/panopto-adds-automatic-recording-and-sharing-of-recurring-zoom-meetings-offers-businesses-universities-colleges-and-schools-unlimited-complimentary-panopto-enterprise-for-three-months/).
   * Description: Recording software.
   * Limit: 90 days.
+  
+* [RingCentral](https://www.ringcentral.com/lp/covid19-offer.html).
+  * Description: RingCentral Office (Videoconference, Messaging and Phone).
+  * Limit: Free of charge until either party terminates the services with 30 day written notice.
 
 * [TechSmith](https://discover.techsmith.com/remote-techsmith/).
   * Description: Video recording and team collaboration.
