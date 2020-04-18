@@ -172,6 +172,10 @@ A collection of tools and software provided for free for those contributing to a
   * Limit: 20 licenses for 6 months (healthcare organizations).
 
 ### Authentication
+* [1Password](https://blog.1password.com/covid-19-response/).
+  * Description: Password manager
+  * Limit: 6 months.
+
 * [Okta](https://www.okta.com/blog/2020/03/okta-for-goods-response-and-support-during-the-covid-19-crisis/).
   * Description: Identification and authentication platform
   * Limit: 5 Applications.
