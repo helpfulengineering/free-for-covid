@@ -56,6 +56,10 @@ A collection of tools and software provided for free for those contributing to a
 * [Box](https://t.co/Q3kJTvJcne?amp=1).
   * Description: Workflow and content management.
   * Limit: 90 days.
+  
+* [Github](https://github.blog/2020-04-14-github-is-now-free-for-teams/).
+  * Description: CI/CD, project management, code review, packages, etc. Now with unlimited private repos & collaborators
+  * Limit: None.
 
 * [GitKraken](https://www.gitkraken.com/pro-for-a-cure).
   * Description: Git GUI with Github integration, task management boards and timelines.
